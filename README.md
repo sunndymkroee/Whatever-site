@@ -1,2 +1,0 @@
-# Whatever-site
-Whatever 
